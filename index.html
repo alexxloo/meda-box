@@ -14,7 +14,7 @@
 	body{
   margin:0 auto;
   }
-  	div {
+  	.menu {
 	font-size:25px;	
 	margin-bottom:15px;
 	background-color:#cccccc;
@@ -26,41 +26,39 @@
 	color:#000000;
 	}
 	
-	div:hover, div a:hover{
+	.menu:hover, .menu a:hover{
 	color:#ffffff;
 	background-color:#777777;
 	}
-	
+	@media (max-width: 720px) {
+     body { background: #fc0; }
+	 .center{ width:100%;background:transparent; position:absolute; top:30%; left:0%; }
+   }
+	 
+
+	 
   </style>
  </head>
 <body>
-<section class="wow flipInY"  data-wow-duration="1s">
+<section class="wow flipInY"  data-wow-duration="1s" data-wow-delay="1s">
 
-		<br>
-       <div>
-	   <a href="music/index.html">Музыкальная шкатулка</a>
+   <div class="center">
+	<br>
+       <div class="menu">
+	     <a href="music/index.html">Музыкальная шкатулка</a>
 	   </div>
-	   <div>
-	   <a href="404.html">Радио шкатулка</a>
+	   <div class="menu">
+	     <a href="404.html">Радио шкатулка</a>
 	   </div>
-	   <div>
-	   <a href="404.html">ТВ шкатулка</a>
+	   <div class="menu">
+	     <a href="404.html">ТВ шкатулка</a>
 	   </div>
-		<br>
+	<br>
+   </div>
                     </section>
 
-                    <!-- <section class="wow flipInX"  data-wow-duration="1s" data-wow-delay="1s"> -->
-					
-		
-
-					
-                    <!-- </section> -->
-                    <!-- <section class="wow flipInX"  data-wow-duration="1s" data-wow-delay="2s"> -->
-					
-					       
-					
-                    <!-- </section> -->
-					
+<!-- https://daneden.github.io/animate.css/ -->
+<!-- http://mynameismatthieu.com/WOW/docs.html -->
 					
 <!-- data-wow-duration: Change the animation duration -->
 <!-- data-wow-delay: Delay before the animation starts -->
