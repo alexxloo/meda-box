@@ -1,3 +1,73 @@
+Brazilian_Birds
+Bossa_Nova_Hits
+70_pop_radio
+90_party_zone
+90_Radio
+a_list_80s
+acappella_radio
+adore_jazz_radio
+Adult_Urban_Hits_Choice
+Afterbeat_Electronica
+All_Euro_80
+All_Times_Urban_Gospel
+Alternative_Rock_X_Hits
+
+Always-Christmas
+America's_Best_Ballads
+Amsterdam_Trance
+Blues
+BOM_Psytrance
+
+Bombay_Beats_India
+Cafe_Radio
+Channel_X
+Chillout_Lounge
+Circuit_Pride
+
+Classic_Country
+Classic_Rock_Replay
+Club_1
+Costa_Del_Mar
+country_hits_radio
+
+Country_One
+Dance_One
+Deep_House
+Destination_SPA
+Eternal_Praise_Worship
+
+Funky_Express
+Gorilla_FM
+High_Voltage
+Italia_On_Air
+Jamz
+
+Kids_FM
+Love_Classics
+Magic_80
+Movie_Soundtracks_Hits
+MPB_Hits
+
+Otto's_Baroque_Music
+Otto's_Classical_Music
+Otto's_Opera_House_Music
+Power
+Radio_Gaia
+
+Reggae_Trade
+Rock_Classics
+Samba_Hits_Brazil
+Sax4Ever
+Sertaneja_Hits
+
+Slow_Jamz
+Top_Fiesta
+trance_(euro)_radio
+
+
+
+далее
+
 1.FM - A List 80s
 http://185.33.22.15:11033
 
@@ -63,6 +133,7 @@ http://185.33.21.112:11249
 http://67.228.150.175:9065
 http://185.33.22.15:11261
 
+
 1.FM - Always-Christmas Radio
 http://185.33.21.112:11069
 
@@ -89,7 +160,7 @@ http://185.33.22.15:11193
 http://185.33.22.15:11046
 http://185.33.22.15:11045
 
-далее
+
 
 1.FM - Bossa Nova Hits Radio 256
 http://185.33.22.15:11049
@@ -115,6 +186,8 @@ http://205.164.36.4:80
 1.FM - Chillout Lounge Radio
 http://185.33.21.112:11065
 
+
+
 1.FM - Circuit Pride Radio
 http://185.33.21.112:11073
 
@@ -131,6 +204,8 @@ http://185.33.21.112:11081
 1.FM - Costa Del Mar
 http://185.33.21.112:11085
 
+
+
 1.FM - Country One Radio
 http://185.33.21.112:11089
 
@@ -145,6 +220,8 @@ http://185.33.21.112:11233
 
 1.FM - Eternal Praise  Worship Radio
 http://185.33.22.15:11189
+
+
 
 1.FM - Funky Express Radio
 http://185.33.22.15:11121
@@ -161,6 +238,8 @@ http://185.33.21.112:11137
 1.FM - Jamz Radio
 http://185.33.21.112:11142
 http://185.33.21.112:11141
+
+
 
 1.FM - Kids FM Radio
 http://185.33.22.15:11145
@@ -182,6 +261,8 @@ http://185.33.21.112:11161
 1.FM - MPB HITS
 http://99.198.112.59:80
 
+
+
 1.FM - Otto's Baroque Music Radio
 http://185.33.21.112:11038
 http://185.33.21.112:11037
@@ -199,6 +280,8 @@ http://185.33.22.15:11197
 http://205.164.35.25:80
 http://205.164.36.25:80
 http://185.33.23.25:80
+
+
 
 1.FM - Rock Classics Radio
 http://185.33.22.15:11205
