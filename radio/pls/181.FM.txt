@@ -1,0 +1,127 @@
+181.FM 80s Country
+http://50.97.82.52:8134
+
+181.FM 80s Hairband
+http://75.126.5.188:8014
+
+181.FM 90s Alternative
+http://75.126.5.143:8052
+
+181.FM 90s Country
+http://174.127.85.10:8050
+
+181.FM 90s Dance
+http://75.126.5.143:8140
+
+181.FM Acid Jazz
+http://50.97.82.52:8178
+
+181.FM Awesome 80s
+http://174.127.85.10:8000
+
+181.FM Beatles
+http://75.126.5.143:8062
+
+181.FM BeBop
+http://50.97.82.52:8164
+
+181.FM Blues
+http://75.126.5.143:8174
+
+181.FM Chilled Out
+http://174.127.85.10:8700
+
+181.FM Chloe @181.FM
+http://184.173.85.76:8100
+
+181.FM Classic Buzz (Alt)
+http://75.126.5.143:8038
+
+181.FM Classic Hits 181
+http://107.191.38.214:8900
+http://75.126.5.143:8132
+
+181.FM Classical Guitar
+http://50.97.82.49:8020
+
+181.FM Classical Jazz
+http://75.126.5.143:8160
+
+181.FM Classical
+http://75.126.5.188:8172
+
+181.FM Energy 93 (Euro EDM)
+http://174.127.85.10:8044
+
+181.FM Energy 98
+http://174.127.85.10:8800
+
+181.FM Front Porch (Bluegrass)
+http://184.173.85.76:8016
+
+181.FM Fusion Jazz
+http://50.97.82.49:8168
+
+181.FM Good Time Oldies
+http://75.126.5.188:8046
+http://108.61.20.174:8046
+
+181.FM Highway 181
+http://75.126.5.143:8018
+
+181.FM Jammin 181
+http://75.126.5.188:8042
+
+181.FM Christmas Blender
+http://50.97.82.49:8122
+
+181.FM Christmas Classics
+http://75.126.5.143:8124
+
+181.FM Christmas Country
+http://174.127.85.10:8110
+
+181.FM Christmas Fun
+http://50.97.82.49:8102
+
+181.FM Christmas Gospel
+http://50.97.82.49:8104
+
+181.FM Christmas Highway
+http://75.126.5.143:8116
+
+181.FM Christmas Kids
+http://184.173.85.76:8106
+
+181.FM Christmas Kountry
+http://75.126.5.143:8084
+
+181.FM Christmas Mix
+http://174.127.85.10:8082
+
+181.FM Christmas Oldies
+http://50.97.82.49:8108
+
+181.FM Christmas Power
+http://184.173.85.76:8086
+
+181.FM Christmas RnB
+http://75.126.5.188:8088
+
+181.FM Christmas Rock
+http://75.126.5.143:8090
+
+181.FM Christmas Smooth Jazz
+http://174.127.85.10:8092
+
+181.FM Christmas Soundtracks
+http://50.97.82.49:8114
+
+181.FM Christmas Spirit
+http://50.97.82.49:8112
+
+181.FM Christmas Standards
+http://50.97.82.52:8118
+
+181.FM Christmas Swing
+http://174.127.85.10:8120
