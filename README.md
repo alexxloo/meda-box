@@ -1,6 +1,7 @@
 # media-box alexxloo
-Этот проект находится в разработке.
-<br><br>
- - <a style="color:#000000; font-size:20px;" href="https://alexxloo.github.io/media-box/" target="_blank">смартфон демо</a>
+# Этот проект находится в разработке.
 <br>
-<a style="color:#000000; font-size:20px;" href="http://baobab-sochi.narod.ru/index/media_box/0-7" target="_blank">PC демо</a>
+смартфон демо - https://alexxloo.github.io/media-box/
+<br>
+PC демо - http://baobab-sochi.narod.ru/index/media_box/0-7
+
