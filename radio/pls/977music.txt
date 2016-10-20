@@ -1,0 +1,25 @@
+Oldies Channel
+http://7659.live.streamtheworld.com:80/977_OLDIESAAC_SC
+
+Mix Channel
+http://7599.live.streamtheworld.com:80/977_MIXAAC_SC
+
+Smooth Jazz Channel
+http://7609.live.streamtheworld.com:80/977_SMOOJAZZAAC_SC
+
+Jamz Channel
+http://7639.live.streamtheworld.com:80/977_JAMZAAC_SC
+
+Hitz Channel
+http://7609.live.streamtheworld.com:80/977_HITSAAC_SC
+
+Classic Rock Channel
+http://7609.live.streamtheworld.com:80/977_CLASSROCKAAC_SC
+
+
+Classic_Rock
+Hitz
+Jamz
+Mix
+Oldies
+Smooth_Jazz
