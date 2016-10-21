@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>RadioSon.ru - your radio plays here! Russian Pop songs channel.</title>
+    <info>https://radioson.ru/radio7.html#slushat-russkoe-radio</info>
+    <trackList>
+        <track><location>http://www.radioson.ru:8009/russkoe-radio.mp3</location></track>
+    </trackList>
+</playlist>

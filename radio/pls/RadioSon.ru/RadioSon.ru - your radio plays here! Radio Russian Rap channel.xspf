@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>RadioSon.ru - your radio plays here! Radio Russian Rap channel.</title>
+    <info>http://radioson.ru/slushat_radio_rap-radio_ru.html?listen-online-radio</info>
+    <trackList>
+        <track><location>http://www.radioson.ru:8009/RussianRapRadio.RadioSon.ru.mp3</location></track>
+    </trackList>
+</playlist>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+    <title>RadioSon.ru - your radio plays here! Music for Car Radio channel.</title>
+    <info>http://www.radioson.ru/slushat_radiotaxi-fm-radio-96-4.html</info>
+    <trackList>
+        <track><location>http://www.radioson.ru:8009/CarMusic.Radioson.ru.mp3</location></track>
+    </trackList>
+</playlist>
