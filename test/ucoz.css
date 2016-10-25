@@ -5,74 +5,80 @@ body {
  font: 14px 'Trebuchet MS', 'Tahoma', 'Verdana', 'Times New Roman';
 }
 
-
-
-
-/*------------------------ custom css ------------------------*/
-/*------------------------ спойлер меню ------------------------*/
-details summary { 
- font-size: 17px;
-position: relative;
- background: #cccccc;
- padding: 5px;
- color: #000000;
- cursor: pointer;
-margin: 5px;
-}
-details summary::details-marker { 
- position: absolute;
- right: 3px;
- top: 30%;
-}
-details[open] summary { 
- background: #777777;
- color: #ffffff;
-}
-/*------------------------ спойлер меню конец ------------------------*/
-/*------------------------ 3d текст MediaBox ------------------------*/
-.head-text { 
-font-family: Georgia, serif;
-color: #ffffff;
-font-weight:bold;
-font-size: 67px;
-text-shadow:0px 0px 0 rgb(237,237,237),0px 1px 0 rgb(220,220,220),0px 2px 0 rgb(202,202,202),0px 3px 0 rgb(184,184,184),0px 4px 0 rgb(167,167,167),0px 5px 0 rgb(149,149,149), 0px 6px 0 rgb(131,131,131),0px 7px 6px rgba(0,0,0,1),0px 7px 1px rgba(0,0,0,0.5),0px 0px 6px rgba(0,0,0,.2);
-}
-/*------------------------ 3d текст конец  ------------------------*/
-/*------------------------ box-body ------------------------*/
-.box-body { 
-width:65%; 
-float:left; 
-background-color:#DDDDDD;
- padding:10px;
--moz-box-shadow: inset 0px 0px 5px #333333;
--webkit-box-shadow: inset 0px 0px 5px #333333;
-box-shadow: inset 0px 0px 5px #333333;
-}
-/*------------------------ box-body конец  ------------------------*/
-/*------------------------ box-menu ------------------------*/
-.box-menu { 
-overflow:auto;
-float: left; 
-width: 25%;
- max-width: 400px;
- height: 600px;
- margin-left: 30px;
-background-color: rgb(221, 221, 221);
- padding-top: 20px;
- text-align: center;
- padding:10px;
--moz-box-shadow: inset 0px 0px 5px #333333;
--webkit-box-shadow: inset 0px 0px 5px #333333;
-box-shadow: inset 0px 0px 5px #333333;
-}
-/*------------------------ box-menu конец  ------------------------*/
-
-/*------------------------ custom css ------------------------*/
-
-
-
-
-
+	/*------------------------ custom css ------------------------*/
+	/*------------------------ спойлер ------------------------*/
+	
+	details{
+	text-align:center;
+	font-size: 12px;
+	position: relative;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	color: #ffffff;
+	background: #cccccc;
+	cursor: pointer;
+	margin: 5px 5px 5px 0 ;		
+	}
+	
+	details[open] summary {
+	font-size: 14px; 
+	background: #777777;
+	color: #ffffff;
+	padding-top: 6px;
+	padding-bottom: 6px;		
+	}
+	
+	table#container tbody tr td#maincol div.menu.box-menu details.first details div p a.links,,
+	table#container tbody tr td#maincol div.menu.box-menu details.first details div a.links{
+	display:block;
+	width:100%;
+	font-size: 14px;		
+	background: #777777;
+	color: #ffffff;
+	padding:10px 0 10px 5px;
+	}
+	
+	
+	/*------------------------ спойлер конец ------------------------*/
+	/*------------------------ 3d текст MediaBox ------------------------*/
+	.head-text { 
+	font-family: Georgia, serif;
+	color: #ffffff;
+	font-weight:bold;
+	font-size: 67px;
+	text-shadow:0px 0px 0 rgb(237,237,237),0px 1px 0 rgb(220,220,220),0px 2px 0 rgb(202,202,202),0px 3px 0 rgb(184,184,184),0px 4px 0 rgb(167,167,167),0px 5px 0 rgb(149,149,149), 0px 6px 0 rgb(131,131,131),0px 7px 6px rgba(0,0,0,1),0px 7px 1px rgba(0,0,0,0.5),0px 0px 6px rgba(0,0,0,.2);
+	}
+	/*------------------------ 3d текст конец  ------------------------*/
+	/*------------------------ box-body ------------------------*/
+	.box-body { 
+	width:65%; 
+	float:left; 
+	background-color:#DDDDDD;
+	padding:0px;
+	-moz-box-shadow: inset 0px 0px 5px #333333;
+	-webkit-box-shadow: inset 0px 0px 5px #333333;
+	box-shadow: inset 0px 0px 5px #333333;
+	}
+	/*------------------------ box-body конец  ------------------------*/
+	/*------------------------ box-menu ------------------------*/
+	.box-menu { 
+	overflow:auto;
+	float: left; 
+	width: 25%;
+	max-width: 400px;
+	height: 600px;
+	margin-left: 30px;
+	background-color: rgb(221, 221, 221);
+	padding-top: 20px;
+	text-align: center;
+	padding:10px;
+	-moz-box-shadow: inset 0px 0px 5px #333333;
+	-webkit-box-shadow: inset 0px 0px 5px #333333;
+	box-shadow: inset 0px 0px 5px #333333;
+	}
+	/*------------------------ box-menu конец  ------------------------*/
+	
+	/*------------------------ custom css ------------------------*/
 
 #header {
  width: 100%;
