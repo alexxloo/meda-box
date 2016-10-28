@@ -4,23 +4,26 @@
   <meta charset="utf-8">
   <title>svg-image</title>
 	<style>
-		body {
-		background-image:  url("pumpkin-23439.svg"), url("bat-151366.svg"), url("bat-151366.svg");  
-		background-position: top center, bottom left, bottom right;
-		background-repeat: no-repeat, repeat-y, repeat-y ;
-		background-size:75%, 10%, 10%;
-		color: #ffffff;
-		}
 		
+		body {
+  		background: url("pumpkin-23439.svg") top  center no-repeat, 
+		url("bat-151366.svg") bottom left repeat-x,
+		url("bat-151366.svg") bottom left repeat-y,
+		url("bat-151366.svg") bottom right repeat-x,
+		url("bat-151366.svg") top right repeat-x;
+		background-size:75%, 10%, 10%, 10%, 10%;
+		}
 	</style>
  </head>
  
  <body>
  
-				<!-- body {  		background: url("media/fishing.svg") top right 10px no-repeat, 
-								url("media/mermaid.svg") bottom left repeat-x,
-								url("media/fish.svg") 30px 90px no-repeat,
-								url("media/sea.png") repeat-x;} -->
+				<!-- body {
+		background-image:  url("pumpkin-23439.svg"), url("bat-151366.svg"), url("bat-151366.svg, url("bat-151366.svg"), url("bat-151366.svg");  
+		background-position: top center, bottom left, bottom right, bottom left, top left;
+		background-repeat: no-repeat, repeat-y, repeat-y, repeat-x, repeat-x;
+		background-size:75%, 10%, 10%, 10%, 10%;
+		} -->
 								
 								<!-- https://habrahabr.ru/company/microsoft/blog/137705/ -->
 								
