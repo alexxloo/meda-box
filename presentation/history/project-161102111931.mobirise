@@ -26,7 +26,7 @@
     "favicon": "",
     "noImageResize": "",
     "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "publishPath": "file:///C:/Users/Alexx/Documents/GitHub/media-box/presentation"
   },
   "pages": {
     "index.html": {
@@ -44,64 +44,50 @@
             "Theme"
           ],
           "_name": "header1",
-          "_anchor": "header1-4",
+          "_styles": {
+            ".mbr-section-title": {
+              "text-align": "center",
+              "font-family": "'PT Serif', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
+              "font-size": "100px"
+            }
+          },
+          "_anchor": "header1-o",
           "_params": {
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "assets/images/baobab-sochi-2000x1037-87.png",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "left",
-            "showTitle": true,
+            "overlay": true,
+            "overlayOpacity": "0.4",
+            "overlayColor": "#2e2e2e",
+            "contentAlign": "center",
+            "showTitle": false,
             "showText": false,
             "showButtons": false
           },
-          "title": "FULL SCREEN INTRO",
+          "title": "MediaBox",
           "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
         {
-          "_inherit": "msg-box8",
-          "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#000"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-8",
+          "_name": "buttons1",
+          "_anchor": "buttons1-0",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#c1c1c1",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showText": false,
-            "showButton": false
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#c1c1c1"
           },
-          "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#bottom\" data-toolbar=\"-mbrBtnMove\">удалить кнопку</a> "
         },
         {
           "_tags": [
@@ -139,7 +125,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": "2",
+            "columns": "3",
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
@@ -233,7 +219,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "1",
-            "bgColor": "#dadada"
+            "bgColor": "#c1c1c1"
           },
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://baobab-sochi.narod.ru/index/media_box/0-7\" data-toolbar=\"-mbrBtnMove\">слушать шкатулку</a> "
         },
@@ -254,7 +240,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#c1c1c1",
+            "bgColor": "#dadada",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
